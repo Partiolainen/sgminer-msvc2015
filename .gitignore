@@ -47,3 +47,8 @@ lib/warn-on-use.h
 mkinstalldirs
 
 *.swp
+/winbuild/output/x64
+/winbuild/jansson/Release/x64
+/winbuild/jansson/Debug/x64
+/.vs
+/winbuild/.vs
